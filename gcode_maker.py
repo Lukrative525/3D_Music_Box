@@ -93,7 +93,6 @@ def printer_settings():
     settings_5 = [start_position_x, start_position_y, start_position_z, start_position_a, start_position_b, start_position_e]
     settings_6 = [axis_labels, center_axis]
 
-
     # wrapping up
 
     settings = [settings_0, settings_1, settings_2, settings_3, settings_4, settings_5, settings_6]
